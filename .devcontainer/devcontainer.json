@@ -1,0 +1,22 @@
+{
+  "name": "java-maven",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "MS-CEINTL.vscode-language-pack-ja",
+        "mhutchie.git-graph",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "redhat.java",
+        "vscjava.vscode-lombok",
+        "vscjava.vscode-maven",
+        "redhat.vscode-xml",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  }
+}
